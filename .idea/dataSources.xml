@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="iOffice10.Privilege@192.162.8.175" uuid="372e8fe7-83d4-4258-8649-ad466b820dde">
+      <driver-ref>sqlserver.ms</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
+      <jdbc-url>jdbc:sqlserver://192.162.8.175;database=iOffice10.Privilege</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="@192.162.8.133" uuid="da5cea1b-c0a4-429b-b84e-031ce41352a1">
+      <driver-ref>oracle</driver-ref>
+      <synchronize>true</synchronize>
+      <auto-commit>false</auto-commit>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@192.162.8.133:1521:docare</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="K6_FPCON@192.162.8.191" uuid="1c360e9c-1b06-47f0-9f1d-deea56e89d7d">
+      <driver-ref>sqlserver.ms</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
+      <jdbc-url>jdbc:sqlserver://192.162.8.191;database=K6_FPCON</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="@192.162.9.145" uuid="af3dae74-4f62-4c9b-b415-aa95062d2971">
+      <driver-ref>oracle</driver-ref>
+      <synchronize>true</synchronize>
+      <auto-commit>false</auto-commit>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@//192.162.9.145:1521/hisemrdb</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="psndoc@192.162.8.175" uuid="ac4510b5-f2f4-4aa0-87e6-d6fc72c877f5">
+      <driver-ref>sqlserver.ms</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
+      <jdbc-url>jdbc:sqlserver://192.162.8.175;database=psndoc</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="@192.162.9.5" uuid="d9ca1fb0-719b-46b4-bf94-3d0869d92d2e">
+      <driver-ref>oracle</driver-ref>
+      <synchronize>true</synchronize>
+      <auto-commit>false</auto-commit>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@//192.162.9.5:1521/htemr</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="jdbc:mysql://192.162.8.243" uuid="c7414c58-a840-4267-8e3c-6ef0ab6f2722">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://192.162.8.243:3306/wxwork?serverTimezone=GMT%2B8&amp;useUnicode=true&amp;characterEncoding=UTF8&amp;allowPublicKeyRetrieval=true</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="@192.162.8.155" uuid="b4e49bf5-d322-4944-81c4-6316f0fd9fce">
+      <driver-ref>sqlserver.ms</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
+      <jdbc-url>jdbc:sqlserver://192.162.8.155</jdbc-url>
+    </data-source>
+  </component>
+</project>
